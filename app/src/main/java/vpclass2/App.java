@@ -5,7 +5,7 @@ package vpclass2;
 
 public class App {
     public String getGreeting() {
-        return "Good Bye World!";
+        return " Good Bye World!";
     }
 
     public static void main(String[] args) {
